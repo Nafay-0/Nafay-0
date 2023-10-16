@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdul Nafay Rizwani
 ===========================================================================================================================================
 
-Web Developer | Data Science | ML/AI
+AI Developer | Data Science | ML/AI
 ------------------------------------
 
 Passionate BS CS student interested in Web development, Data science, Deep learning, and Computer vision. Excited about pushing the boundaries of technology and creating innovative solutions. Let's connect and collaborate!
