@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdul Nafay Rizwani
 ===========================================================================================================================================
 
-AI Developer | Data Science | ML/DL
+AI Developer | Data Science | ML/DL | LLMs 
 ------------------------------------
 
-Passionate BS CS student interested in Artificial Intelligence specifically Generative AI, Deep learning, and Computer vision. Excited about pushing the boundaries of technology and creating innovative solutions. Let's connect and collaborate!
+Passionate individual interested in Artificial Intelligence primarily Generative AI, Deep learning, and Computer vision. Excited about pushing the boundaries of technology and creating innovative solutions. Let's connect and collaborate!
 
 * ✉️  You can contact me at [nafay2002rizwani@gmail.com](mailto:nafay2002rizwani@gmail.com)
 
