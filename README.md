@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI Developer | Data Science | ML/DL | LLMs
 -------------------------------------------
 
-Passionate individual interested in Artificial Intelligence primarily Generative AI, Deep learning, and Computer vision. Excited about pushing the boundaries of technology and creating innovative solutions. Let's connect and collaborate!
-
 * ✉️  You can contact me at [nafay2002rizwani@gmail.com](mailto:nafay2002rizwani@gmail.com)
 
 <p align="left">
