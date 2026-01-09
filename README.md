@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdul Nafay Rizwani
 ===========================================================================================================================================
 
-AI Developer| Data Science | Data Science | ML/DL | LLMs
+AI Developer | Data Science | ML/DL | LLMs
 -------------------------------------------
 
 * ✉️  You can contact me at [nafay2002rizwani@gmail.com](mailto:nafay2002rizwani@gmail.com)
