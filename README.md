@@ -46,13 +46,33 @@ I work at InChannel AI on Libbi Studio and Libbi Assist. I'm doing an MSc in Com
 <h2>GitHub</h2>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=Nafay-0&show_icons=true&hide_rank=true&hide_border=true&title_color=22d3ee&icon_color=22d3ee&text_color=e2e8f0&bg_color=0b1f2a#gh-dark-mode-only" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=Nafay-0&show_icons=true&hide_rank=true&hide_border=true&title_color=0e7490&icon_color=0e7490&text_color=1e293b&bg_color=f8fafc#gh-light-mode-only" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Nafay-0&layout=compact&langs_count=6&hide_border=true&title_color=22d3ee&text_color=e2e8f0&bg_color=0b1f2a#gh-dark-mode-only" alt="Top languages" />
-  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Nafay-0&layout=compact&langs_count=6&hide_border=true&title_color=0e7490&text_color=1e293b&bg_color=f8fafc#gh-light-mode-only" alt="Top languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=Nafay-0&hide_border=true&background=0B1F2A&ring=22D3EE&fire=22D3EE&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=94A3B8&stroke=164E63#gh-dark-mode-only" alt="GitHub streak" />
-  <img src="https://streak-stats.demolab.com/?user=Nafay-0&hide_border=true&background=F8FAFC&ring=0E7490&fire=0E7490&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=0E7490&sideLabels=475569&dates=475569&stroke=E2E8F0#gh-light-mode-only" alt="GitHub streak" />
+  <table border="0" cellpadding="8" cellspacing="0">
+    <tr>
+      <td align="center" valign="top" width="50%">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Nafay-0&show_icons=true&hide_rank=true&hide_border=true&title_color=22d3ee&icon_color=22d3ee&text_color=e2e8f0&bg_color=0b1f2a" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Nafay-0&show_icons=true&hide_rank=true&hide_border=true&title_color=0e7490&icon_color=0e7490&text_color=1e293b&bg_color=f8fafc" />
+          <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Nafay-0&show_icons=true&hide_rank=true&hide_border=true&title_color=22d3ee&icon_color=22d3ee&text_color=e2e8f0&bg_color=0b1f2a" alt="GitHub stats" />
+        </picture>
+      </td>
+      <td align="center" valign="top" width="50%">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Nafay-0&layout=compact&langs_count=8&hide=Jupyter%20Notebook%2CHTML%2CCSS&hide_border=true&title_color=22d3ee&text_color=e2e8f0&bg_color=0b1f2a" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Nafay-0&layout=compact&langs_count=8&hide=Jupyter%20Notebook%2CHTML%2CCSS&hide_border=true&title_color=0e7490&text_color=1e293b&bg_color=f8fafc" />
+          <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Nafay-0&layout=compact&langs_count=8&hide=Jupyter%20Notebook%2CHTML%2CCSS&hide_border=true&title_color=22d3ee&text_color=e2e8f0&bg_color=0b1f2a" alt="Top languages" />
+        </picture>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Nafay-0&hide_border=true&background=0B1F2A&ring=22D3EE&fire=22D3EE&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=94A3B8&stroke=164E63" />
+          <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Nafay-0&hide_border=true&background=F8FAFC&ring=0E7490&fire=0E7490&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=0E7490&sideLabels=475569&dates=475569&stroke=E2E8F0" />
+          <img src="https://streak-stats.demolab.com/?user=Nafay-0&hide_border=true&background=0B1F2A&ring=22D3EE&fire=22D3EE&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=94A3B8&stroke=164E63" alt="GitHub streak" />
+        </picture>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <h2>Contact</h2>
